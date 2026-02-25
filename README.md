@@ -66,3 +66,22 @@ These dashboards help businesses:
 ---
 
 ## 📂 Repository Structure
+
+MS-Excel-Projects/
+│
+├── Coffee_Shop_Sales_Analysis/
+├── Customer_Shopping_Dashboard/
+└── Vrinda_Store_Sales_Dashboard/
+
+
+---
+
+## 👨‍💻 Author
+
+Faraz Niyazi  
+B.Tech (CSE) | Data Analyst  
+Skilled in Excel | SQL | Power BI | Python  
+
+---
+
+⭐ If you found these projects helpful, consider giving this repository a star.
