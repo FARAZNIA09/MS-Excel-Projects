@@ -57,7 +57,7 @@ The dataset contains:
 ---
 
 ## 📷 Dashboard Preview
-(Customer_Shopping_Dashboard/Customer_Shopping_Dasboard-Screenshot.png)
+![Customer_Shopping_Dashboard](Customer_Shopping_Dasboard-Screenshot.png)
 
 ---
 
