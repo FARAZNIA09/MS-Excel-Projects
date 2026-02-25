@@ -68,8 +68,11 @@ These dashboards help businesses:
 ## 📂 Repository Structure
 
 MS-Excel-Projects/
+|
 ├── Coffee_Shop_Sales_Analysis/
+|
 ├── Customer_Shopping_Dashboard/
+|
 └── Vrinda_Store_Sales_Dashboard/
 
 
