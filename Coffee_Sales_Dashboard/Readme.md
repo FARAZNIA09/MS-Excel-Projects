@@ -20,4 +20,4 @@ The coffee shop wanted to analyze monthly revenue trends and top-selling product
 - Cold beverages contributed 45% revenue
 
 ## Dashboard Preview
-![Coffee_Sales_Dashboard/Coffee_Sales](Coffee_Sales_Dashboard/Coffee_Sales_Dashboard-Screenshot.png)
+![Coffee_Sales_Dashboard](Coffee_Sales_Dashboard-Screenshot.png)
